@@ -6,3 +6,9 @@ En esta red social podras crear tu perfil,publicar post,comentar,dar like,subir 
 
 
 #PROTOTIPO DE BAJA FIDELIDAD:
+
+EN COMPUTADORAS:
+[![Whats-App-Image-2022-01-17-at-9-37-36-AM.jpg](https://i.postimg.cc/3NSfbYvb/Whats-App-Image-2022-01-17-at-9-37-36-AM.jpg)](https://postimg.cc/PvDMCGKm)
+
+EN ANDROID:
+[![Whats-App-Image-2022-01-17-at-9-37-48-AM.jpg](https://i.postimg.cc/xjxsQjX6/Whats-App-Image-2022-01-17-at-9-37-48-AM.jpg)](https://postimg.cc/fkd7jNjd)
